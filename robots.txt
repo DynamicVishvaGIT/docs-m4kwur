@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-wkka84.ajaib88nsi.cyou/sitemap.xml
